@@ -4,7 +4,7 @@ This is the extension version of the [SDAtom-WebUi-us](https://github.com/Krypto
 
 **👉 For documentation, reporting issues etc check out the** [**original repo**](https://github.com/Kryptortio/SDAtom-WebUi-us).
 
-![alt text](https://github.com/Kryptortio/SDAtom-WebUi-us/blob/main/screenshot.png?raw=true)
+![alt text](https://github.com/Pecacheu/SDAtom-WebUi-us/blob/main/screenshot.png?raw=true)
 
 # Issues
 
